@@ -29,7 +29,7 @@ This project is CV website Template.
 
 1. responsive website template.
 
-1. this template include on: Skills, Languages, Work Experience, Education.
+1. this template include on: Skills, Languages, Profiles, Work Experience, Education.
 
 
 ### Quick Summary
